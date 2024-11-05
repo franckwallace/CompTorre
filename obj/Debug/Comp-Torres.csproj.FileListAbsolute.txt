@@ -1,0 +1,7 @@
+C:\Users\franc\OneDrive\Programas\C#\Bootcamp Individual\TOR\composicao-de-torres\Comp-Torres\obj\Debug\Comp-Torres.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Programas\C#\Bootcamp Individual\TOR\composicao-de-torres\Comp-Torres\obj\Debug\Comp-Torres.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Programas\C#\Bootcamp Individual\TOR\composicao-de-torres\Comp-Torres\bin\Debug\Comp-Torres.exe.config
+C:\Users\franc\OneDrive\Programas\C#\Bootcamp Individual\TOR\composicao-de-torres\Comp-Torres\bin\Debug\Comp-Torres.exe
+C:\Users\franc\OneDrive\Programas\C#\Bootcamp Individual\TOR\composicao-de-torres\Comp-Torres\bin\Debug\Comp-Torres.pdb
+C:\Users\franc\OneDrive\Programas\C#\Bootcamp Individual\TOR\composicao-de-torres\Comp-Torres\obj\Debug\Comp-Torres.exe
+C:\Users\franc\OneDrive\Programas\C#\Bootcamp Individual\TOR\composicao-de-torres\Comp-Torres\obj\Debug\Comp-Torres.pdb
